@@ -2,7 +2,8 @@
 <div>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jccallves-developer&custom_title=jccallves's numbers...&show_icons=true&theme=react&include_all_commits=true&count_private=true&show_owner=true" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jccallves-developer&layout-default&langs_count=16&theme=react" />
-<!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=jccallves-developer" /> -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=jccallves&layout=compact&langs_count=20" />
+  
 <br>
   
   
@@ -21,7 +22,7 @@
 </thead>
 <tbody>
   <tr>
-    <td class="tg-0lax"><strong>Linguagens</strong></td>
+    <td class="tg-0lax"><strong>Languages</strong></td>
     <td class="tg-0lax"><img height="32em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" /></td>
     <td class="tg-0lax"><img height="32em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /></td>
     <td class="tg-0lax"><img height="32em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /></td>
